@@ -37,8 +37,7 @@ int main() {
   
     cout<<"The total amount for the duration of rent is: "<<total_cost<<" Rwf."<<endl;
         
-        
-    
+            
         return 0; //Existing the program.....
 }
 
