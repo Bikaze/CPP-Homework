@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     int start;  //declare variable to account for the starting time
     int end;    //declare variable to account for the returning time
-    int total_cost;   //declare variable to account for the total cost to be paid
+    int total_cost = 0;   //declare variable to account for the total cost to be paid
     cout<<"Enter the starting time: "; // Ask for input from the user for the starting time
     cin>>start;
     cout<< "Enter the returning time: ";    // Ask for input from the user for the returning time
